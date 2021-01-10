@@ -16,8 +16,10 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
+    "core-js": "^3.8.2",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "regenerator-runtime": "^0.13.7"
   },
   "devDependencies": {
     "@babel/core": "^7.12.10",

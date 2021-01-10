@@ -1,7 +1,8 @@
 import React from 'react'
+import MovieApp from './components/MovieApp'
 
 const App = () => {
-  return <h1>BoilerPlate</h1>
+  return <MovieApp />
 }
 
 export default App
